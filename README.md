@@ -1,3 +1,1 @@
-My new CI/CD Repository
-Change in the develop branch
-
+This repository contains tasks from the CI/CD course.
